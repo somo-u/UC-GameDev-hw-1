@@ -13,6 +13,8 @@
 </p>
 
 <p dir="rtl">
+ <br/><p dir="rtl">
+<strong>تمرين</strong></p>
 
 
 1. عرف متغيرين باسم hero , health 
